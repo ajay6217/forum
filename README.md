@@ -9,7 +9,7 @@
   <li>Basic user profile management.</li>
 </ul>
 <br>
-Here are some snapshots from game.
+Here are some snapshots of the website.
 
 <img src="Images/snapshot1.png" width=95% alt="snapshots">
 <img src="Images/snapshot2.png" width=95% alt="snapshots">
