@@ -8,3 +8,12 @@
   <li>Posting and replying to threads.</li>
   <li>Basic user profile management.</li>
 </ul>
+<br>
+Here are some snapshots from game.
+
+<img src="Images/snapshot1.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot2.PNG" width=95% alt="snapshots">
+<img src="Images/snapshot3.PNG" width=95% alt="snapshots">
+
+
+<br><br>
